@@ -1,0 +1,2 @@
+# codejam-practice
+Competitive coding
